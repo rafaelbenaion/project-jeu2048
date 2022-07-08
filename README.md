@@ -1,8 +1,7 @@
 # Projet Jeu 2048
 
-Le projet consistait à développer une copie du jeu 2048 utilisant le langage C et la bibliothèque SDL. Réalisé en 2021 pour la matière de programmation avancée, de la deuxième année de Licence Informatique à l'Université Clermont Auvergne.
+Le projet consistait à développer une implementation du jeu 2048 utilisant le langage C et la bibliothèque SDL. Réalisé en 2021 pour la matière de programmation avancée, de la deuxième année de Licence Informatique à l'Université Clermont Auvergne.
 
-Imagens du jeu conçu:
 
 ![screen4](https://user-images.githubusercontent.com/12467598/147373458-937573f7-cada-4d5f-b1be-2e2f507413a1.png)
 ![screen1](https://user-images.githubusercontent.com/12467598/147373455-10a7bd0d-87c0-4ae1-a243-0280f63b9cc5.png)
